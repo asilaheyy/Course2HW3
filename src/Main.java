@@ -46,6 +46,5 @@ public class Main {
 
         lastochka.refill();
         bus2.refill();
-
     }
 }
